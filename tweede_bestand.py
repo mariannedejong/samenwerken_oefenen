@@ -1,1 +1,1 @@
-print("Dit is het tweede bestand")
+print("Deze collaborator heeft het tweede bestand gewijzigd")
